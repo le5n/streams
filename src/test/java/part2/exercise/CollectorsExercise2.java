@@ -1,8 +1,5 @@
 package part2.exercise;
 
-import data.Employee;
-import data.JobHistoryEntry;
-import data.Person;
 import org.junit.Test;
 
 import java.util.*;
